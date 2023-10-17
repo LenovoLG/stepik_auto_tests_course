@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
-3lesson1_step4
+# Мои решения задач по курсу "Автоматизация тестирования с помощью Selenium и Python"
+
